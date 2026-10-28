@@ -1,0 +1,27 @@
+body {
+  background-color: #00FFBE;
+  font-family: Tahoma, sans-serif;
+  padding: 16px;
+}
+.card {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 32px;
+  background-color: #FFFFFF;
+  border: 5px solid #FF2900;
+  border-radius: 16px;
+  box-shadow: 0px 4px 12px rgba(211, 255, 71)
+}
+hr {
+  height: 3px;
+  background-color: black;
+}
+a {
+  text-decoration: none;
+  color: black;
+  transition: 0.3s;
+}
+a:hover {
+  transition: 0.3s;
+  color: gray;
+}
